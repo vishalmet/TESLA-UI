@@ -1,0 +1,14 @@
+{
+  "name": "tesla-ui-clone",
+  "version": "1.0.0",
+  "description": "Clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
+  }
+}
